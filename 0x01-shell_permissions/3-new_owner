@@ -1,2 +1,2 @@
 #!/bin/bash
-gchown betty hello
+gsudo chown betty hello
