@@ -1,0 +1,2 @@
+#!/bin/bash
+gchown betty hello
